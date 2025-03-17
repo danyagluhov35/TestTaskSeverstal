@@ -8,3 +8,5 @@
 
 Готово! Приложение использует БД с именем сервера localhost, и Windows аутентификацию
 ![image](https://github.com/user-attachments/assets/9e2e19a4-773e-44aa-a937-7df0ac931ebd)
+
+По необходимости, можете изменить параметры подключения к БД в файле appsettings.json
